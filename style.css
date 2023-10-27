@@ -1,0 +1,94 @@
+.title
+{
+ background-color: darkblue;
+ width: 1320px;
+ height: 100px;
+ margin-top: auto;
+ align-items: center;
+ font-size: 50px;
+ justify-content: center;
+ color: aliceblue;
+ display: flex;
+ text-align: center;
+ font-family: 'Montserrat', sans-serif;
+
+ 
+}
+
+.caja
+{
+    background-color: darkblue;
+    width: 300px;
+    height: 1400px;
+    padding: 30px;
+    display: grid;
+    margin-right: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img
+{
+    width: 300px;
+    height: 420px;
+    align-content: center;  
+
+}
+
+i
+{
+    background-color: cadetblue;
+    width: 200px;
+    height: 20px;
+    margin: 2px;
+    color: darkblue;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    padding-top:5px;
+    align-content: flex-end;
+    display: grid;
+    justify-content: space-around;   
+}
+
+body
+{
+   background-color: darkgray;
+   display: grid;
+   color: white;
+   grid-auto-columns: max-content;
+   align-items: center;
+   justify-content: end;
+}
+
+h2
+{
+    background-color: aliceblue;
+    color: darkblue;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    display: grid;
+    align-items: center;
+    
+}
+.fa
+{
+    text-align: left;
+    display: grid;
+    
+}
+
+.name
+{
+    background-color: rgb(98, 98, 155);
+    color: white;
+    font-size: 100px;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    margin: 30px;
+    justify-content: center; 
+    display: grid;
+    
+}
